@@ -35,18 +35,11 @@ Appendix
 Figure 1. Representation of the mixed CNN models of spectograms (left), one channel of raw signal (center) and the other (right)
 ![Architecture](/src/arch.jpg)
 
-
-
 Figure 2. Confusion Matrix of normalized classes
-
-
-
-
-
+![cf](/src/cf.jpg)
 
 Table 1. Classification metrics per class
-
-
+![cf2](/src/cf2.jpg)
 
 Validation Accuracy: 0.80
 Loss: 0.52
