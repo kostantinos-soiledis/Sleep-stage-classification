@@ -33,7 +33,7 @@ Score: 0.463 - not as expected regarding our validation score (0.80), actually l
 Appendix
 
 Figure 1. Representation of the mixed CNN models of spectograms (left), one channel of raw signal (center) and the other (right)
-
+![Architecture](/src/arch.jpg)
 
 
 
@@ -54,9 +54,9 @@ Loss: 0.52
 
 
 # References
-Cui, Zhihong et al. “Automatic Sleep Stage Classification Based on Convolutional Neural Network and Fine-Grained Segments.” Hindawi, 8 Oct. 2018, hindawi.com/journals/complexity/2018/9248410/.
-Mansar, Youness. “Sleep Stage Classification from Single Channel EEG using Convolutional Neural Networks.” Towards Data Science, 1 Oct. 2018, towardsdatascience.com/sleep-stage-classification-from-single-channel-eeg-using-convolutional-neural-networks-5c710d92d38e.
-Ramos, Ricardo et al. “Analysis of EEG Signal Processing Techniques based on Spectrograms.” Research in Computing Science 145, 2017, rcs.cic.ipn.mx/2017_145/Analysis%20of%20EEG%20Signal%20Processing%20Techniques%20based%20on%20Spectrograms.pdf.
-Taspinar, Ahmet. “A guide for using the Wavelet Transform in Machine Learning.” Ahmet Taspinar, 21 Dec. 2018, ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/.
-Ubeyli, Elif. “Combined neural network model employing wavelet coefficients for EEG signals classification.” Digital Signal Processing, Mar. 2009. sciencedirect.com/science/article/abs/pii/S105120040800122X.
+1. Cui, Zhihong et al. “Automatic Sleep Stage Classification Based on Convolutional Neural Network and Fine-Grained Segments.” Hindawi, 8 Oct. 2018, hindawi.com/journals/complexity/2018/9248410/.
+1. Mansar, Youness. “Sleep Stage Classification from Single Channel EEG using Convolutional Neural Networks.” Towards Data Science, 1 Oct. 2018, towardsdatascience.com/sleep-stage-classification-from-single-channel-eeg-using-convolutional-neural-networks-5c710d92d38e.
+1. Ramos, Ricardo et al. “Analysis of EEG Signal Processing Techniques based on Spectrograms.” Research in Computing Science 145, 2017, rcs.cic.ipn.mx/2017_145/Analysis%20of%20EEG%20Signal%20Processing%20Techniques%20based%20on%20Spectrograms.pdf.
+1 .Taspinar, Ahmet. “A guide for using the Wavelet Transform in Machine Learning.” Ahmet Taspinar, 21 Dec. 2018, ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/.
+1. Ubeyli, Elif. “Combined neural network model employing wavelet coefficients for EEG signals classification.” Digital Signal Processing, Mar. 2009. sciencedirect.com/science/article/abs/pii/S105120040800122X.
 
